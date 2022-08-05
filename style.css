@@ -1,0 +1,14 @@
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Courier New', Courier, monospace;
+    /* color: black; */
+    font-weight: bolder;
+}
+#copyTOClip{
+    border: none;
+    outline: none;
+    margin-top: 2rem;
+    padding: 1rem 2rem;
+}
